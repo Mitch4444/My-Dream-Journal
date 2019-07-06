@@ -1,0 +1,32 @@
+{
+  "name": "capstone-3",
+  "version": "1.0.0",
+  "description": "Thinkful fullstack capstone",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "chai-datetime": "^1.5.0",
+    "chai-http": "^4.2.1",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "jsonwebtoken": "^8.5.0",
+    "mocha": "^6.0.0",
+    "mongoose": "^5.4.14",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-jwt": "^4.0.0"
+  },
+  "devDependencies": {
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "test": "mocha --exits",
+    "start": "node server.js"
+  },
+  "author": "Richard McBride",
+  "license": "ISC"
+}
