@@ -28,6 +28,6 @@
     "test": "mocha --exits",
     "start": "node server.js"
   },
-  "author": "Richard McBride",
+  "author": "Mitchell Carlson",
   "license": "ISC"
 }
