@@ -24,7 +24,7 @@
     "should": "^13.2.3"
   },
   "scripts": {
-    "now-build": "react-scripts build"
+    "now-build": "react-scripts build",
     "test": "mocha --exits",
     "start": "node server.js"
   },
