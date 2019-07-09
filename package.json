@@ -26,6 +26,8 @@
   "scripts": {
     "test": "mocha --exits",
     "start": "node server.js"
+    "now-build": "react-scripts build"
+
   },
   "author": "Richard McBride",
   "license": "ISC"
