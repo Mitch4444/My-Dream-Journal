@@ -1,5 +1,6 @@
 {
   "name": "My-Dream-Journal",
+  "homepage": "https://Mitch4444.github.io/My-Dream-Journal",
   "version": "1.0.0",
   "description": "Thinkful fullstack capstone",
   "main": "server.js",
