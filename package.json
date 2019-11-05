@@ -15,7 +15,7 @@
     "faker": "^4.1.0",
     "jsonwebtoken": "^8.5.0",
     "mocha": "^6.0.0",
-    "mongoose": "^5.4.14",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "passport": "^0.4.0",
     "passport-http": "^0.3.0",
